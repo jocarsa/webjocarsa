@@ -1,0 +1,41 @@
+{
+    "entradas":[
+        {
+            "título":"Primera entrada del blog",
+            "fecha":"2023-08-20",
+            "texto":"Este es el primer artículo del blog"
+        },
+        {
+            "título":"Segunda entrada del blog",
+            "fecha":"2023-08-21",
+            "texto":"Este es el segundo artículo del blog"
+        },
+        {
+            "título":"Tercera entrada del blog",
+            "fecha":"2023-08-22",
+            "texto":"Este es el tercer artículo del blog"
+        },
+        {
+            "título":"Cuarta entrada del blog",
+            "fecha":"2023-08-22",
+            "texto":"Este es el cuarto artículo del blog"
+        }
+        ,
+        {
+            "título":"Quinta entrada del blog",
+            "fecha":"2023-08-22",
+            "texto":"Este es el quinto artículo del blog"
+        },
+        {
+            "título":"Sexta entrada del blog",
+            "fecha":"2023-08-22",
+            "texto":"Este es el sexto artículo del blog"
+        }
+		,
+        {
+            "título":"Esta es una prueba en clase",
+            "fecha":"2023-08-22",
+            "texto":"Este es el sexto artículo del blog"
+        }
+    ]
+}

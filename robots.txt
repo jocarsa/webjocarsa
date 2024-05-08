@@ -1,0 +1,10 @@
+# Allow all search engines to index the website
+User-agent: *
+Allow: /
+
+# Block specific directories
+Disallow: /admin/
+Disallow: /paneldecontrol/
+
+# Sitemap location
+Sitemap: https://www.jocarsa.com/sitemap.xml
